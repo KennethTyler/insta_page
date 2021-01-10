@@ -76,6 +76,9 @@ body {
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
+    margin-bottom: 15px;
+    width: 180px;
+    height: 180px;
 }
 
 .profile-photo img{
